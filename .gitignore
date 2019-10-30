@@ -1,0 +1,4 @@
+/.vscode
+/api_service/target
+/api_service/imgs
+**/*.rs.bk
